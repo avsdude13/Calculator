@@ -1,0 +1,10 @@
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Calculator.exe.config
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Calculator.exe
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Calculator.pdb
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Calculator.xml
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Calculator.Calculator.resources
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Calculator.Resources.resources
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Calculator.exe
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Calculator.xml
+C:\Users\TEMP.WINAD.001\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Calculator.pdb
